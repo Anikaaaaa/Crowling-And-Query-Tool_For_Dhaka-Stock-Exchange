@@ -1,0 +1,9 @@
+ 1.Open  
+ 2.High      
+3.Low    
+4.Close  
+5. %Chg  
+6.Trade       
+7.Volume    
+8.Value(Mn)
+

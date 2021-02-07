@@ -1,0 +1,26 @@
+       "                         ============================                                    ");
+       "|                             MENU SELECTION DEMO                                        |");
+       "                          ============================                                    ");
+       "|                                   Options:                                             |");
+       "|        1. Know About Todays Market Statistics...................................       |");
+       "|        2. Know About Today's TOP 10s............................................       |");
+       "|        3. Know About Today's Top 10 Gainers(Based on Open Prize)...............        |");
+       "|        4. Know About Today's Top 10 Gainers(Based on YCP and Close Price)......        |");
+       "|        5. Know About Today's Top 10 Loosers(Based on Open Price)...............        |");
+       "|        6. Know About Today's Top 10 Loosers(Based on YCP and Close Price)......        |");
+       "|        7. Know About Any Specific Stock.......................................         |");
+       "             Would You Like To Enjoy Any Kind Of Graph Information?..........            |");
+       "|        8. Monitor Any Specific Stock's OPENING PRIZE GRAPH of one month.......         |");
+       "|        10. Monitor Any Specific Stock's HIGH PRIZE GRAPH of one month.......           |");
+       "|        11. Monitor Any Specific Stock's LOW PRIZE GRAPH of one month........           |");
+       "|        12. Monitor Any Specific Stock's  CLOSE PRIZE GRAPH of one month.....           |");
+       "|        13. Monitor Any Specific Stock's  TREAD GRAPH of one month...........           |");
+       "|        14. Monitor Any Specific Stock's  VALUE(Mn) GRAPH of one month.......           |");
+       "|        15. Comparing TWO Stock's  Tread GRAPH of one month..................           |");
+       "|        17. Monitor All  Stock's   GRAPH of Today Based on different Topics..           |");
+
+       "                             ============================                                 ");
+
+       "                                   Select option:                                         ");
+
+    
